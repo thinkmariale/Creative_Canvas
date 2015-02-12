@@ -1,5 +1,7 @@
 # Creative_Canvas
 
+Done with OpenFrameworks
+
 I have always liked image manipulation but had never had the chance to really experiment with it. 
 I took this assignment as a chance to see what I could create by extracting information from any image. 
 After looking at the openFrameworks addons, I decided to use ofxUI, ofxCV, ofxTriangleMesh, and ofxColorQuantizer.
