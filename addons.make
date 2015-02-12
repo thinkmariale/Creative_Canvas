@@ -1,0 +1,5 @@
+ofxOpenCv
+ofxCv
+ofxTriangleMesh
+ofxUI
+ofxXmlSettings
